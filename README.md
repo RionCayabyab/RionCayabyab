@@ -34,7 +34,6 @@ Specializing in Information Technology Business Analytics
 ```
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![C++][cpp.com]][cpp-url]
 * [![Python][python.com]][python-url]
 * [![MySQL][Mysql.com]][Mysql-url]
@@ -43,8 +42,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[NextJS.com]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-[NextJS-url]: https://nextjs.org
 
 [cpp.com]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [cpp-url]: https://www.cplusplus.com
