@@ -2,7 +2,7 @@
  
 <br />
 <div align="center">
- <img src="https://media.tenor.com/VfNHIfcyAIMAAAAM/watch-a-fat-cat-dance-an-american-dance-girlfriend.gif" width="60" height="100" />
+ <img src="https://media.tenor.com/VfNHIfcyAIMAAAAM/watch-a-fat-cat-dance-an-american-dance-girlfriend.gif" width="160" height="200" />
   <h2 align="center">Marion Rosabelle "Rion" Cayabyab</h2>
   </a>
 
