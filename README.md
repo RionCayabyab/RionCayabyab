@@ -32,13 +32,14 @@ Currently Residing in: Philippines
 Educational Status: 2nd Year Student in FEU Instuture of Technology
 Specializing in Information Technology Business Analytics
 ```
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Here are the programs I am currently working on.
 
 * [![C++][cpp.com]][cpp-url]
 * [![Python][python.com]][python-url]
 * [![MySQL][Mysql.com]][Mysql-url]
 * [![Github][Github.com]][Github-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,3 +58,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+
+[TailwindCSS.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com
