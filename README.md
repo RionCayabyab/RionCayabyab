@@ -17,7 +17,8 @@
     <li>
        <a href="#about-the-project">Who is Rion?</a>
     <ul>
-  
+    </ul>
+    </li></ol></details> 
       **:eyes: Bio_Data.yml:**
 
 ```yaml
