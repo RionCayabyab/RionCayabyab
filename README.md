@@ -17,7 +17,16 @@
     <li>
        <a href="#about-the-project">Who is Rion?</a>
     <ul>
-   
+  
+      **:eyes: Bio_Data.yml:**
+
+```yaml
+name: Marion Rosabelle "Rion" Cayabyab
+Born in: Philippines
+Currently Residing in: Philippines
+Educational Status: 2nd Year Student in FEU Instuture of Technology
+Specializing in Information Technology Business Analytics
+```
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
