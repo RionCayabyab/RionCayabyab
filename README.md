@@ -3,9 +3,9 @@
 
 <br />
 <div align="center">
-
+  <img src="[![image](https://github.com/RionCayabyab/RionCayabyab/assets/155805133/4481d7e5-d052-4326-b951-91b0270ef6fd)](https://i.pinimg.com/originals/15/1d/a9/151da98ceef9a9a54a7eac4af04be712.gif)">
   <h3 align="center">Marion Rosabelle "Rion" Cayabyab</h3>
-  <img src="![image](https://github.com/RionCayabyab/RionCayabyab/assets/155805133/4481d7e5-d052-4326-b951-91b0270ef6fd)">
+
 
 
   <p align="center">
