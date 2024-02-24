@@ -5,6 +5,8 @@
 <div align="center">
 
   <h3 align="center">Marion Rosabelle "Rion" Cayabyab</h3>
+  <img src="![image](https://github.com/RionCayabyab/RionCayabyab/assets/155805133/4481d7e5-d052-4326-b951-91b0270ef6fd)">
+
 
   <p align="center">
    A FEU Institute of Technology Student Specializing In Information Technology Business Analytics
@@ -19,7 +21,9 @@
     <ul>
     </ul>
     </li></ol></details> 
-      **:eyes: Bio_Data.yml:**
+      
+      
+**:eyes: Bio_Data.yml:**
 
 ```yaml
 name: Marion Rosabelle "Rion" Cayabyab
