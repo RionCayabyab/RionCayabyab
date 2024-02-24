@@ -9,9 +9,9 @@
   <p align="center">
    A FEU Institute of Technology Student Specializing In Information Technology Business Analytics
     <br />
-    </p>
+    </p> </div>
 
-
+<details>
   <summary>Know more about me</summary>
   <ol>
     <li>
