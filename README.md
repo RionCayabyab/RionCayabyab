@@ -3,7 +3,7 @@
 <br />
 <div align="center">
  
-  <h2 align="center" style= "color:  #8abd91">Marion Rosabelle "Rion" Cayabyab</h2>
+  <h2 align="center" style= "font-color: #8abd91">Marion Rosabelle "Rion" Cayabyab</h2>
 <img src="images/123.gif" alt="Logo" width="80" height="80">
   </a>
 
