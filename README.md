@@ -4,7 +4,9 @@
 <div align="center">
  
   <h2 align="center" style= "font-color: #8abd91">Marion Rosabelle "Rion" Cayabyab</h2>
-<img src="images/123.gif" alt="Logo" width="80" height="80">
+## Support
+
+<img src="https://www.pinterest.com/pin/828592031463607059/" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a
   </a>
 
 
@@ -42,6 +44,8 @@ Here are the programs I am currently working on 💚
 * [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Support
 
 <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
