@@ -3,7 +3,7 @@
 <br />
 <div align="center">
  
-  <h3 align="center">Marion Rosabelle "Rion" Cayabyab</h3>
+  <h2 align="center" style= "color:  #8abd91">Marion Rosabelle "Rion" Cayabyab</h2>
 <img src="images/123.gif" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,7 +32,7 @@ Currently Residing in: Philippines
 Educational Status: 2nd Year Student in FEU Instuture of Technology
 Specializing in Information Technology Business Analytics
 ```
-Here are the programs I am currently working on.
+Here are the programs I am currently working on 💚
 
 * [![C++][cpp.com]][cpp-url]
 * [![Python][python.com]][python-url]
