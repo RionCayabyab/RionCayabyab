@@ -4,11 +4,12 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Marion Rosabelle "Rion Cayabyab</h3>
+  <h3 align="center">Marion Rosabelle "Rion" Cayabyab</h3>
 
   <p align="center">
    A FEU Institute of Technology Student Specializing In Information Technology Business Analytics
     <br />
+    </p>
 
 
   <summary>Know more about me</summary>
