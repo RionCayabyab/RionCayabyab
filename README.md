@@ -1,49 +1,22 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Marion Rosabelle "Rion Cayabyab</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   A FEU Institute of Technology Student Specializing In Information Technology Business Analytics
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+  <summary>Know more about me</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <p>Who is Rion?</p>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+        
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
